@@ -1,0 +1,6 @@
+cake 200
+candy 700
+fish 200
+chese 200
+bread 300
+kebab 200
